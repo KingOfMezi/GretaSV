@@ -1,0 +1,192 @@
+- MULTICLIENTE. Abre mas de 1 cuenta de GB en una misma PC. (VIP y SUPER VIP)
+- AVATARSHOP. Accede a la tienda de avatares ocultos para comprar con Cash, G-Coin  (SOLO SUPER VIP) 
+
+
+
+/acceptgifts  (Comando para aceptar todos los regalos automaticamente) "Solo usar en chanel)
+
+/gcoinchest1 5 (Compra 5 cofres de chest 1 automaticamente, puedes cambiar el numero 5 por cualquiera) "Deves contar con cash"
+
+/gcoinchest1 5 +nick  (Envia 5 cofres de chest 1 automaticamente, puedes cambiar el numero 5 por cualquiera) "Deves contar con cash"
+
+/gcoinchest2 5 (Compra 5 cofres de chest 2 automaticamente, puedes cambiar el numero 5 por cualquiera) "Deves contar con cash"
+
+/gcoinchest2 5 +nick  (Envia 5 cofres de chest 2 automaticamente, puedes cambiar el numero 5 por cualquiera) "Deves contar con cash"
+
+ 
+1. COMANDOS PARA JUGAR "VS":
+/Damage 10    (Este comando es para usar tu Damage de forma graduada lo recomendable es usar en 10)
+/Killing 10        (Este comando es para usar tu Killing de forma graduada lo recomendable es usar en 10)
+/Defense 10     (Este comando es para usar tu Defensa de forma graduada lo recomendable es usar en 10)
+/PROGRUB 10  (Si usas el movil "GRUB" para jugar activaras su iten funcional nivel 10)
+/PROJFROG 10   (Si usas el movil "SAPO" para jugar activaras su iten funcional nivel 10)
+/FORCESS          (Este comando sirve para activar tu "SS" al momento que desees)
+/AIM                  (Este comando sirve para activar el "Aimbot" de tiros perfectos. (SUPER VIP = TODOS LOS MOVILES)  (VIP SOLO 3 MOVILES)
+/GODMODE        (Este comando sirve para llenar tu vida cuando estes a punto de morir) (SOLO SUPER VIP)
+/ANGLELIMIT     (Este comando sirve para que tengas mas angulo dentro del juego)
+ Los comandos (Damage,Killing, Defense,ProGrub y ProFrog) Solo pueden ser activados antes de iniciar el juego y los comandos (FORCESS,AIM y ANGLELIMIT) pueden ser activados tanto en la sala como en el juego, estos comandos sirven para usuarios (VIP o SUPER VIP)
+
+2. COMANDOS MAS USADOS:
+/ACCESS   (Sirve para volar a todos de una sala incluido Master) (SOLO SUPER VIP)
+/ACS  NICK   (Sirve para volar a alguien de la sala solo cambiar el NICK por otro) (SOLO SUPER VIP)
+/STOP    (Sirve para poner "STOP" en el juego y de esta forma lagearlo) (SOLO SUPER VIP)
+/LVL 1    (Este comando sirve para que pongas "Camuflaje" a tu nivel solo cambias el numero 1 por otro)
+/BUDDY(Este comando es para apagar tu "Buddy" y asi nadie te pueda hablar en el juego)
+/SWEARBLOCK(Este comando es para hablar palabras bloqueadas como lisuras ect.)
+/FAKESTATS 1000(Este comando es para cambiar tus "partidas o win rate" puedes modificar los numeros)
+/MOBINFO (Activalo Si quieres saver que nivel de "CARD o FUNCIONALES" estan usando tus oponentes) 
+/PETMAX  (sirve para Activar o Desactivar el maximo nivel de tu "PET" se encuentra activado por defecto)
+/MOBEFFECT 1 (Poner un efecto en el movil solo cambiar el Nro" 1 por otro)
+/BALLOON 1 (Cambiar el globo de texto solo cambiar el Nro" 1 por otro existen hasta el Numero 8)
+/JOIN 1  (Este comando sirve para entrar a una sala rapidamente solo cambias el numero 5 por otro)
+/AUTOJOIN 1 (Si quieres volver a entrar a una sala varias veces de forma atuomatica solo cambias el Nro.)
+/LEAVE  (Este comando sirve para salir de una sala o del juego rapidamente)
+/END  (Este comando sirve para terminar el juego al isntante)
+ 
+3. COMANDOS MOVILES CARD NIVEL 30:
+Usar el comando de la siguiente manera JEMPLO:  /MOB 1 30
+Esto es para activar un movil con card nivel 30 solo cambiar el numero 1 por otro numero, si quieres activar 2 moviles usa el siguiente comando /MOB2 2 30 los numeros de moviles les dejo a continuacion estos comandos sirven para usuarios (VIP o SUPER VIP)
+0 - Armor +
+1 - Mage +
+2 - Nak+
+3 - Trico+
+4 - Big Foot+
+5 - Boomer+
+6 - Raon Launcher+
+7 - Lightning+
+8 - J.D+
+9 - A.Sate+
+10 - Ice+
+11 - Turtle+
+12 - Grub+
+13 - Aduka+
+14 - Kalsiddon+
+15 - J.Frog+
+16 - Phoenix
+17 - Maya
+18 - Wolf+
+19 - Tiburon
+20 - Blue Whale
+21 - Frank
+22 - Assassin
+23 - Princess
+24 - Shadow Walker+
+25 - Carrior+
+26 - Random+
+
+/aim
+
+4. COMANDOS MASCOTAS MAXIMO NIVEL:
+Usar el comando de la siguiente manera JEMPLO:   /PET 1 NOMBRE
+Solo remplazan el numero 1 por otro numero y en nombre pondran el nombre que deseen estos comandos sirven para usuarios VIP o SUPER VIP, recuerden que solo "USUARIOS SUPER VIP"
+podran usar mascotas (R).
+0 - Eliminar Pet
+1 - Chihuahua
+2 - Jindo Dog
+3 - Stray Dog
+4 - Malamute
+5 - Shih tzu Dog
+6 - Coco
+7 - Dior
+8 - Nitro
+9 - Verne
+10 - Rascal
+11 - Bruno
+12 - Observador
+13 - Xena
+14 - Raffle
+15 - Snap Trap
+16 - Gallo
+17 - Came
+18 - Leo
+19 - Grim Reaper
+20 - March Hare
+21 - Dryad
+22 - Puss
+23 - Werewolf
+24 - Observador(R) (Solo Super VIP)
+25 - Grim Reaper(R) (Solo Super VIP)
+26 - Shih tzu(R) (Solo Super VIP)
+27 - Puss(R) (Solo Super VIP)
+28 - Leo(R) (Solo Super VIP)
+29 - Moai
+30 - Bijuu Gold
+31 - Bijuu
+32 - Bijuu Black
+33 - Red Phoenix
+34 - Black Phoenix
+35 - Gold Phoenix
+36 - Pink Phoenix
+37 - Green Phoenix
+38 - Blue Phoenix
+39 - White Phoenix
+
+6.  COMANDO "BOT"PARA HACER GPS:
+Crear una sala 1VS1 eliges el modo de juego luego poner los siguientes comandos:
+/ABMODE 3 (Este es un modo de "BOT" donde el Master pierde la partida y los GPS y el otro los GANA)
+/GP 35    (Puedes graduar cuantos "GPS" quieres ganar solo cambias el numero 35 por otro)
+/GP2 3    (Si quieres que el master Gane "GPS" de forma graduada solo cambias el numero 3 por otro)  
+/GOLD 600 (Si quieres ganar mas "GOLD" solo activar este comando, si NO quieres no lo actives)
+Luego de poner esos comandos de arriba solo presionar estas teclas CONTROL mas S los 2 al mismo tiempo de esta manera activaras el "BOT" automatico y asi empezara el juego, si quieres detener el juego solo presionas esas 2 mismas teclas.
+Aqui te mostraremos los modos de "BOTS"
+/ABMODE 0   (El Master pierde la partida, Pero ambos Ganaran el mismo monto de GPS)
+/ABMODE 1   (Ganas 1 partida y el otro pierde, Luego el otro Gana y tu pierdes)
+/ABMODE 2   (El Master Gana los GPS pero pierde la aprtida, El otro Gana la partida pero pierde los GPS)
+/ABMODE 3   (El Master pierde GPS y Partidas, solo el otro Gana Partidas y GPS)
+
+
+7. COMANDOS SALAS:
+/autocreate NUM TITLE (Auto intenta crear una sala de número bajo. ( USAR EN EL CHANEL)
+/autocreatepass PASS (Auto intenta crear una sala con contraseña. ( USAR EN EL CHANEL)/autostart (Auto Start para que empiese el juego automaticamente. (USAR EN SALA)/clearkick (Borra toda la lista de auto-kick)/kicka (Kick a todos del lado A)/kickb (Kick a todos del lado B)/kickall (Kick a todos de la Sala)/list (Lista de delay)/Addkick NICK (Agregar a alguien ala lista del autokick) (SOLO USAR EN SALA)/remkick NICK (Eliminar a alguien de la lista de autokick) (SOLO USA EN  SALA)
+/akick (Activalo si quieres kikear automaticamente a todo aquel que entre a tu sala) 
+/Inviteall (Sirve para invitar a mas de 30 usuarios a tu sala activalo cada vez que quieras)
+
+8. COMANDOS COMPRAS:
+/spiritjewel 10    (Sirve para comprar 10 piedras "Spiritjewel" Tienes que tener GOLD)
+/Spiritjewel 10 NICK (Sirve para enviar a alguien 10 miedras de "Spiritjewel" Tienes que tener GOLD) 
+/gcoinchest1 10   (Sirve para comprar 10 cofres "Chest I"  tienes que tener CASH)
+/gcoinchest1 10 NICK  (Sirve para enviar a alguien 10 cofres "Chest I"  tienes que tener CASH)
+/gcoinchest2 10   (Sirve para comprar 10 cofres "Chest II"  tienes que tener CASH)
+/gcoinchest2 10 NICK  (Sirve para enviar a alguien 10 cofres "Chest II"  tienes que tener CASH)
+Recuerda para que eligas cuantos "SpiritJewel" o cofres de "CHEST" deseas comprar o enviar solo cambiar el Nro" 10 por el que quieras, estos comandos sirven para comprar o enviar de forma atuomatica y solo se pueden usar en el CHANEL. 
+9. COMANDOS ITEMS 2.
+(ESTOS COMANDOS SE AGREGARAN PROXIMAMENTE)
+10. COMANDOS ACTIVADOS POR DEFECTO.
+/antilag Activar / Desactivar anti-lag. (Por defecto: On)
+/antislot Activar / Desactivar anti-slot. (Por defecto: On) 
+/antitrash Activar / Desactivar Anti Trash. nadies te podra volar de tu sala (Por defecto: On) 
+/compactdelay Activar / Desactivar Compact Delay (Por defecto: On) (CANAL) 
+/hidemarks Mostrar / Ocultar logos de ranking. (Por defecto: On) 
+/speed Activar / Desactivar aceleración de mobil. (Por defecto: On) (CANAL)/(SALA)
+/walkhack Activar / Desactivar caminar infinitamente en el juego. (Por defecto: On)
+
+11. FUNCIONES ACTIVADAS POR DEFECTO.
+? Anti-Crazy Wind - Viento normal fijo. (Usted no se verá afectado)
+? Anti-Fetter Bomb - Anti-Congelante. (Usted no se verá afectado)
+? Anti-Invisible - Permitirá ver los jugadores incluso si se utiliza el item de invisibilidad.
+? Anti-Invisible Bomb - Permitirá ver todos los jugadores incluso si se utiliza el item bomba de invisibilidad.
+? Anti-Quick Power Gage - Anti Bar Rápida. (Usted no se verá afectado)
+? Anti-Kick - Si usted es expulsado de la sala, podrá volver.
+? Anti-Nausea Bomb - Anti bomba de Nausea. (Usted no se verá afectado)
+? Anti-Reversal Bomb - Anti bomba de inversión. (Usted no se verá afectado)
+? Anti-Stuck - Anti-Congelante. (Usted no se verá afectado)
+? Chat-Spy - Espía chat enemigo. (Excepción de Greta SuperVip)
+? Color - Seleccione el color del texto sin el item.
+? Flood Hack - Enviar muchas mensajes.
+? Keep-Key - No perderá su sala si usted toma mucho tiempo para iniciar el juego.
+? Server Limit - Límite del servidor ha cambiado a 9999.
+
+12. FUNCIONES INCLUIDOS EN EL VIP Y SUPER VIP:
+
+Anti-Access
+Anti-BGAnti-Close
+Anti-Crash 1/2/3
+Anti-CrashTurn 1/2
+Anti-DualThor
+Anti-GameCrash 1/2/3
+Anti-KillAnti-Lag
+Anti-MissionCrash
+Anti-Shot Flood
+Anti-Stop
+Anti-Teleport
+Anti-WorldList
